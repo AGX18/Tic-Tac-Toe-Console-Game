@@ -60,21 +60,21 @@ public class Main {
         boolean validInput = false;
         boolean isNum = true;
         while (!validInput) {
-            isNum = true;
+            System.out.print("Enter the coordinates: ");
             try {
                 firstCoordinate = scanner.nextInt();
                 secondCoordinate = scanner.nextInt();
                 scanner.nextLine();
 
-                //validInput = true;
+
             } catch (InputMismatchException e) {
                 System.out.println("You should enter numbers!");
-                isNum = false;
+
                 scanner.nextLine();
+                continue;
             }
 
-//            if(isNum)
-//                continue;
+
 
             if (firstCoordinate < 1 || firstCoordinate > 3 || secondCoordinate < 1 || secondCoordinate > 3) {
                 validInput = false;

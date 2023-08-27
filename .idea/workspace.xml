@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="795ba4c1-2fff-439f-a8ca-95197a7432ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TicTacTOe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tictactoe/Main.java" afterDir="false" />
+    <list default="true" id="795ba4c1-2fff-439f-a8ca-95197a7432ff" name="Changes" comment="Now the Project is complete and working correctly">
+      <change beforePath="$PROJECT_DIR$/src/tictactoe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tictactoe/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,12 +56,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693129235075</updated>
-      <workItem from="1693129236090" duration="9995000" />
+      <workItem from="1693129236090" duration="10353000" />
     </task>
+    <task id="LOCAL-00001" summary="Now the Project is complete and working correctly">
+      <option name="closed" value="true" />
+      <created>1693163056001</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693163056001</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Now the Project is complete and working correctly" />
+    <option name="LAST_COMMIT_MESSAGE" value="Now the Project is complete and working correctly" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -84,12 +91,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tictactoe/Main.java</url>
-          <line>85</line>
+          <line>84</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tictactoe/Main.java</url>
-          <line>83</line>
+          <line>82</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -99,27 +106,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tictactoe/Main.java</url>
-          <line>166</line>
+          <line>165</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tictactoe/Main.java</url>
-          <line>172</line>
+          <line>171</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tictactoe/Main.java</url>
-          <line>190</line>
+          <line>189</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tictactoe/Main.java</url>
-          <line>205</line>
+          <line>204</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/tictactoe/Main.java</url>
-          <line>143</line>
+          <line>142</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
