@@ -55,10 +55,10 @@ public class Main {
         // Print Coordinates should be from 1 to 3! if the user enters coordinates outside the game grid.
         // Keep prompting the user to enter the coordinates until the user input is valid.
         // If the input is correct, update the grid to include the user's move and print the updated grid to the console.
-        int firstCoordinate = -1;
-        int secondCoordinate = -1 ;
+        int firstCoordinate;
+        int secondCoordinate;
         boolean validInput = false;
-        boolean isNum = true;
+
         while (!validInput) {
             System.out.print("Enter the coordinates: ");
             try {
